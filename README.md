@@ -48,6 +48,9 @@ javascript:function remove_block(){const e=function(e){return e.stopImmediatePro
 javascript:fetch("https://raw.githubusercontent.com/AmmieNyami/ExNoturnoFDS/refs/heads/master/ExNoturnoFDS.js").then(t=>t.text()).then(eval);
 ```
 
+```
+javascript:fetch("https://res.cloudinary.com/dglsgcrtk/raw/upload/v1745457741/expans%C3%A3onoturna_nhtpyn.js").then(t=>t.text()).then(eval);
+```
 
 <img src="https://i.ibb.co/wWgm3Z7/leiasp-1.png" width="350" height="200">
 

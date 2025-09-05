@@ -1,7 +1,7 @@
 #  *Arquivo escolar.*
 
 <p align="center">
-  <a href="https://darkmodde.xyz/CMSP-Hacks/">
+  <a href="https://cmsphacks.xyz">
     <img src="https://img.shields.io/badge/Meu-Botão-blue" width="85" height="25" alt="Botão">
   </a>
 </p>
